@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JspDeneme
+Bundle-SymbolicName: JspDeneme
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: JspDeneme.jar,
+ kdiri/Downloads/mysql-connector-java-5.1.35/mysql-connector-java-5.1.35-bin.jar
